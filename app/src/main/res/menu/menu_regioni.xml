@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuid_ricoverati_con_sintomi"
+        android:title="@string/menu_ricoverati_con_sintomi" />
+    <item
+        android:id="@+id/menuid_terapia_intensiva"
+        android:title="@string/menu_terapia_intensiva" />
+    <item
+        android:id="@+id/menuid_isolamento_domiciliare"
+        android:title="@string/menu_isolamento_domiciliare" />
+    <item
+        android:id="@+id/menuid_attuali_positivi"
+        android:title="@string/menu_attuali_positivi" />
+    <item
+        android:id="@+id/menuid_nuovi_positivi"
+        android:title="@string/menu_nuovi_positivi" />
+    <item
+        android:id="@+id/menuid_delta_positivi"
+        android:title="@string/menu_delta_positivi" />
+    <item
+        android:id="@+id/menuid_dimessi_guariti"
+        android:title="@string/menu_dimessi_guariti" />
+    <item
+        android:id="@+id/menuid_tamponi"
+        android:title="@string/menu_tamponi" />
+    <item
+        android:id="@+id/menuid_decessi"
+        android:title="@string/menu_decessi" />
+    <item
+        android:id="@+id/menuid_totale_casi"
+        android:title="@string/menu_totale_casi" />
+
+</menu>

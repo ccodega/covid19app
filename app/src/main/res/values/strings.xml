@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">Covid19</string>
+
+    <string name="navigation_title_italia">Italia</string>
+    <string name="navigation_title_regioni">Regioni</string>
+    <string name="navigation_title_province">Province</string>
+
+    <string name="menu_info">Info</string>
+    <string name="menu_totale_casi">Totale casi</string>
+    <string name="menu_ricoverati_con_sintomi">Ricoverati con sintomi</string>
+    <string name="menu_terapia_intensiva">Terapia intensiva</string>
+    <string name="menu_isolamento_domiciliare">Isolamento domiciliare</string>
+    <string name="menu_attuali_positivi">Attuali positivi</string>
+    <string name="menu_nuovi_positivi">Nuovi positivi</string>
+    <string name="menu_delta_positivi">Delta positivi</string>
+    <string name="menu_dimessi_guariti">Dimessi guariti</string>
+    <string name="menu_tamponi">Tamponi</string>
+    <string name="menu_decessi">Decessi</string>
+
+    <string name="generic_error">Qualcosa è andato storto. Controlla le impostazioni di rete</string>
+
+    <string name="about_dialog_title">Info su %1$s</string>
+    <string name="about_dialog_message">Versione: %1$s\n\nContatto sviluppatore: %2$s\n\nTutte le informazioni visualizzate in questa app vengono scaricate da: %3$s</string>
+    <string name="about_dialog_ok_button">Ok</string>
+
+    <string name="developer_contact">sazilla@gmail.com</string>
+    <string name="data_source_site">https://github.com/pcm-dpc/COVID-19</string>
+
+</resources>
